@@ -1,10 +1,7 @@
 
 
 # MyNotesApp
-[![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html) [![Kotlin](https://img.shields.io/badge/kotlin-1.3.72-blue.svg)](http://kotlinlang.org) [![Gradle](https://img.shields.io/badge/gradle-4.0.0-%2366DCB8.svg)](https://developer.android.com/studio/releases/gradle-plugin)
 
-This repository is the result of my submission in [Dicoding](https://www.dicoding.com) class [Learn Fundamental Android Application](https://www.dicoding.com/academies/14) that implements MVVM(Model View ViewModel) architecture using the components ViewModel, LiveData, Dagger2, Room, RxJava, etc.
-*Hopefully my repository can be useful to be used as a reference all friends.*
 
 ## Installation
 Clone this repository and import into Android Studio
@@ -43,17 +40,11 @@ https://github.com/Nauvalps/MyNoteApps.git
          alt="Dialog Delete"
          style="margin-right: 10px;"
          width="200" />
-</p>
-
-
-<p align="left">
-    <img src="assets/message-delete-success.png"
+        <img src="assets/message-delete-success.png"
          alt="Message Delete"
          style="margin-right: 10px;"
          width="200" />
-
 </p>
-
 
 ## Feature :
 - Using MVVM (Model-View-ViewModel) Architecture
