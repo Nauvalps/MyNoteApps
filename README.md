@@ -10,7 +10,7 @@ https://github.com/Nauvalps/MyNoteApps.git
 ```
 
 
-## ScreenSHot
+## ScreenShot
 <p align="left">
     <img src="assets/home.png"
          alt="Home menu"
