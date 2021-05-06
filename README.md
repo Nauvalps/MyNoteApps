@@ -14,19 +14,19 @@ https://github.com/Nauvalps/MyNoteApps.git
 <p align="left">
     <img src="assets/home.png"
          alt="Home menu"
-         style="margin-right: 10px;"
+         style="margin-right: 20px;"
          width="200" />
     <img src="assets/formAdd.png"
          alt="Activity Add"
-         style="margin-right: 10px;"
+         style="margin-right: 20px;"
          width="200" />
     <img src="assets/message_add_success.png"
          alt="Message Add Success"
-         style="margin-right: 10px;"
+         style="margin-right: 20px;"
          width="200" />
     <img src="assets/formUpdate.png"
          alt="Acitivty Update"
-         style="margin-right: 10px;"
+         style="margin-right: 20px;"
          width="200" />
     
 </p>
@@ -35,15 +35,15 @@ https://github.com/Nauvalps/MyNoteApps.git
 <p align="left">
     <img src="assets/message_update_success.png"
          alt="Message Update Success"
-         style="margin-right: 10px;"
+         style="margin-right: 20px;"
          width="200" />
     <img src="assets/dialog-delete.png"
          alt="Dialog Delete"
-         style="margin-right: 10px;"
+         style="margin-right: 20px;"
          width="200" />
     <img src="assets/message-delete-success.png"
          alt="Message Delete"
-         style="margin-right: 10px;"
+         style="margin-right: 20px;"
          width="200" />
 </p>
 
