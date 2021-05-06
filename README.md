@@ -28,14 +28,15 @@ https://github.com/Nauvalps/MyNoteApps.git
          alt="Acitivty Update"
          style="margin-right: 10px;"
          width="200" />
-      <img src="assets/message_update_success.png"
-         alt="Message Update Success"
-         style="margin-right: 10px;"
-         width="200" />
+    
 </p>
 
 
 <p align="left">
+    <img src="assets/message_update_success.png"
+         alt="Message Update Success"
+         style="margin-right: 10px;"
+         width="200" />
     <img src="assets/dialog-delete.png"
          alt="Dialog Delete"
          style="margin-right: 10px;"
