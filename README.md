@@ -1,6 +1,6 @@
 
 
-# MyNotesApp
+# MyNoteApp
 
 
 ## Installation
